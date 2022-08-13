@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="nom">Nombre</string>
+    <string name="co">Correo</string>
+    <string name="cel">Celular</string>
+    <string name="di">Direccion</string>
+    <string name="gu">Guardar</string>
+    <string name="bu">buscar</string>
+</resources>

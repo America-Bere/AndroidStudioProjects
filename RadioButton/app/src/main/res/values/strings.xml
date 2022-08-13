@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">operaciones</string>
+    <string name="num1">Introduce el primer numero</string>
+    <string name="num2">Introduce el segundo numero</string>
+    <string name="rb1">SUMA</string>
+    <string name="rb2">RESTA</string>
+    <string name="rb3">MULTIPLICACION</string>
+    <string name="rb4">DIVISION</string>
+    <string name="btn">CALCULAR</string>
+    <string name="tv1">RESULTADO</string>
+</resources>

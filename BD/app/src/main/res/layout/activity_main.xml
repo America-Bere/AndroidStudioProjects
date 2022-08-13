@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/codigo"
+        android:layout_width="280dp"
+        android:layout_height="74dp"
+        android:layout_marginStart="101dp"
+        android:layout_marginTop="65dp"
+        android:layout_marginEnd="101dp"
+        android:layout_marginBottom="621dp"
+        android:ems="10"
+        android:hint="@string/t1"
+        android:inputType="number"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/descripcion"
+        android:layout_width="278dp"
+        android:layout_height="71dp"
+        android:layout_marginStart="67dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="66dp"
+        android:layout_marginBottom="511dp"
+        android:ems="10"
+        android:hint="@string/des"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/codigo" />
+
+    <EditText
+        android:id="@+id/precio"
+        android:layout_width="280dp"
+        android:layout_height="66dp"
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="62dp"
+        android:layout_marginBottom="412dp"
+        android:ems="10"
+        android:hint="@string/pre"
+        android:inputType="numberDecimal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.375"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/descripcion"
+        app:layout_constraintVertical_bias="0.304" />
+
+    <Button
+        android:id="@+id/insert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="67dp"
+        android:layout_marginTop="87dp"
+        android:layout_marginEnd="98dp"
+        android:onClick="REGISTRAR"
+        android:text="@string/ins"
+        app:layout_constraintEnd_toStartOf="@+id/eli"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/precio" />
+
+    <Button
+        android:id="@+id/actu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="71dp"
+        android:layout_marginEnd="68dp"
+        android:layout_marginBottom="181dp"
+        android:onClick="ACTUALIZAR"
+        android:text="@string/act"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eli"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/eli"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="84dp"
+        android:layout_marginEnd="80dp"
+        android:onClick="ELIMINAR"
+        android:text="@string/eli"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/precio" />
+
+    <Button
+        android:id="@+id/con"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="67dp"
+        android:layout_marginTop="64dp"
+        android:layout_marginEnd="71dp"
+        android:layout_marginBottom="181dp"
+        android:onClick="CONSULTAR"
+        android:text="@string/con"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/actu"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/insert" />
+</androidx.constraintlayout.widget.ConstraintLayout>

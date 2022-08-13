@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckButton</string>
+    <string name="num">Escribe un numero</string>
+    <string name="bu">Calcular</string>
+    <string name="su">Suma</string>
+    <string name="re">Resta</string>
+    <string name="mul">Multiplicacion</string>
+    <string name="divi">Division</string>
+    <string name="res">RESPUESTA</string>
+</resources>

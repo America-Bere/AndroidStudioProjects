@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="NOM">Nombre: </string>
+    <string name="gen">Genero: </string>
+    <string name="ed">Edad: </string>
+    <string name="pre">Puesto: </string>
+    <string name="idi">ID: </string>
+    <string name="reg">regresar </string>
+    <string name="next">otras opciones </string>
+    <string name="escr">Escribe aqui</string>
+    <string name="ins">Registrar</string>
+    <string name="eli">Eliminar</string>
+    <string name="act">Actualizar</string>
+    <string name="con">Consultar</string>
+</resources>

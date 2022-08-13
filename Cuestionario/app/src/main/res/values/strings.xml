@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Cuestionario</string>
+    <string name="c">Vamos a comenzar\n\n\nTomate tu tiempo para responder</string>
+    <string name="btn">Comenzar</string>
+    <string name="sig">Siguiente</string>
+    <string name="sal">Saltar</string>
+    <string name="fin">Finalizar</string>
+    <string name="anun1">Selecciona dos opciones</string>
+    <string name="anun2">YA FALTA POCO PARA TERMINAR EL CUESTIONARIO</string>
+    <string name="p1">Un Framework es:</string>
+    <string name="p2">Un SDK es:</string>
+    <string name="p3">Una biblioteca es programacion es:</string>
+    <string name="p4">Una API es:</string>
+    <string name="p5">La clase R de Java, se utiliza para:</string>
+    <string name="p6">Android es:</string>
+    <string name="p7">Android Studio es:</string>
+    <string name="p8">Los lenguajes con los que se puede desarrollar en Android Studio son:</string>
+    <string name="p9">Se le conoce como desarrollo movil nativo</string>
+    <string name="p10">En la siguiente línea de código</string>
+    <string name="p101">n1 = (EditText) findViewById(R.id.ednum1);</string>
+    <string name="p102">sirve para:</string>
+    <string name="p11">Las ventajas de desarrollo nativo son:</string>
+    <string name="p12">La diferencia entre APPS hibridas y multiplataforma es:</string>
+    <string name="p13">El modificador de acceso Public indica:</string>
+    <string name="p14">El modificador de acceso Protected indica:</string>
+    <string name="p15">El modificador de acceso Private indica:</string>
+    <string name="p17">El activity es:</string>
+    <string name="p18">Cual es la forma correcta de declarar e inicializar un array en java:</string>
+    <string name="p19">El spinner es:</string>
+    <string name="p20">Un arreglo en java se recorre de la siguiente forma:</string>
+    <string name="rp1_1">Una especie de plantilla que sirve como punto de partida para la organización y desarrollo de software</string>
+    <string name="rp1_2">Son usados por programadores, reducir errores y obtener un resultado de más calidad</string>
+    <string name="rp1_3">La automatización es la clave para conseguir que cualquier proceso de trabajo sea rápido y eficaz sin perder un ápice de calidad</string>
+    <string name="rp2_1">Es el conjunto de programas de un sistema informático que gestiona los recursos de hardware y provee servicios a los programas de aplicación de software</string>
+    <string name="rp2_2">Es un Special Disk Koof</string>
+    <string name="rp2_3">Es un conjunto de herramientas proporcionado usualmente por el fabricante de una plataforma de hardware, un sistema operativo (SO) o un lenguaje de programación</string>
+    <string name="rp3_1">Conjunto de procedimientos y funciones (subprogramas) agrupadas en un archivo con el fin de ser aprovechadas por otros programas</string>
+    <string name="rp3_2">Conjunto de subprogramas utilizados para desarrollar software</string>
+    <string name="rp3_3">Conjunto de libros digitales en los que se pueden consultar codigos</string>
+    <string name="rp4_1">Es una aplicación informática diseñada para ser ejecutada en teléfonos inteligentes, tabletas y otros dispositivos móviles.</string>
+    <string name="rp4_2">Programa o conjunto de programas informáticos que realizan un trabajo específico, diseñado para el beneficio del usuario final.</string>
+    <string name="rp4_3">Son mecanismos que permiten a dos componentes de software comunicarse entre sí mediante un conjunto de definiciones y protocolos</string>
+    <string name="rp5_1">Localizar el nombre de la clase para orientarse</string>
+    <string name="rp5_2">Identificar dinámicamente todos los activos, para su uso en clases de Java en la aplicación de Android.</string>
+    <string name="rp5_3">Contiene constante numérica asignada para cada recurso que puede consultar en su proyecto</string>
+    <string name="rp6_1">Es un sistema operativo inicialmente pensado para teléfonos móviles</string>
+    <string name="rp6_2">Conjunto de subprogramas utilizados para desarrollar software</string>
+    <string name="rp6_3">Son mecanismos que permiten a dos componentes de software comunicarse entre sí</string>
+    <string name="rp7_1">Lenguaje de programación interpretado que se ejecuta directamente</string>
+    <string name="rp7_2">Entorno de desarrollo integrado oficial para la plataforma Android</string>
+    <string name="rp7_3">Lenguaje de programación de alto nivel para desarrollar aplicaciones de todo tipo</string>
+    <string name="rp8_1">Kotlin</string>
+    <string name="rp8_2">C++</string>
+    <string name="rp8_3">Java</string>
+    <string name="rp9_1">Se necesita de varios dispostivos para poder realizar un codigo pequeño</string>
+    <string name="rp9_2">Se accede con la url de un sitio creando un acceso directo que las ancla al dispositivo</string>
+    <string name="rp9_3">Se programa de manera específica para cada plataforma, utilizando un lenguaje determinado</string>
+    <string name="rp10_1">Para que el objeto se active</string>
+    <string name="rp10_2">Vincular la parte logica con la interfaz</string>
+    <string name="rp10_3">Crear una conexion a la base de datos</string>
+    <string name="rp11_1">Utilizan los estándares del desarrollo web HTML5</string>
+    <string name="rp11_2">No necesitan de conexión a internet para poder ser utilizadas</string>
+    <string name="rp11_3">Velocidad de ejecución y respuesta a sus tareas muy elevada, proporcionando rapidez a sus operaciones</string>
+    <string name="rp12_1">En una estrategia nativa, una aplicación se desarrolla específicamente para una plataforma móvil, mientras que una estrategia híbrida permite que el desarrollo de aplicaciones logre un mejor funcionamiento en cualquier plataforma y dispositivo.</string>
+    <string name="rp12_2">En una estrategia nativa, una aplicacion solo puede ser compartida por medio USB, mientras que una estrategia hibrida puede ser compartida en la PlayStore</string>
+    <string name="rp12_3">En una estrategia nativa, una aplicacion solo puede ser codificada cuando se tiene acceso del supeior, mientras que una estrategia hibrida puede ser codificada con acceso libre</string>
+    <string name="rp13_1">Especifica que los elementos que lo utilizan sólo pueden ser accedidos desde la clase en la que se encuentran</string>
+    <string name="rp13_2">Permite a acceder al elemento desde cualquier clase</string>
+    <string name="rp13_3">Indica que los elementos sólo pueden ser accedidos desde su mismo paquete y desde cualquier clase que extienda la clase en que se encuentra, independientemente de si esta se encuentra en el mismo paquete o no</string>
+    <string name="rp14_1">Permite a acceder al elemento desde cualquier clase</string>
+    <string name="rp14_2">Especifica que los elementos que lo utilizan sólo pueden ser accedidos desde la clase en la que se encuentran</string>
+    <string name="rp14_3">Indica que los elementos sólo pueden ser accedidos desde su mismo paquete y desde cualquier clase que extienda la clase en que se encuentra, independientemente de si esta se encuentra en el mismo paquete o no</string>
+    <string name="rp15_1">Indica que los elementos sólo pueden ser accedidos desde su mismo paquete y desde cualquier clase que extienda la clase en que se encuentra, independientemente de si esta se encuentra en el mismo paquete o no</string>
+    <string name="rp15_2">Especifica que los elementos que lo utilizan sólo pueden ser accedidos desde la clase en la que se encuentran</string>
+    <string name="rp15_3">Permite a acceder al elemento desde cualquier clase</string>
+    <string name="rp17_1">Es un componente clave de una app para Android, y la forma en que se inician y se crean las actividades es una parte fundamental del modelo de aplicación de la plataforma</string>
+    <string name="rp17_2">Pagina que aparece primero en la que podemos prototipar</string>
+    <string name="rp17_3">Ventana emergente que se usa para hacer un diseño de como se quiere visualizar la interfaz al usuario</string>
+    <string name="rp18_1">char arrayCaracteres[]; \n arrayCaracteres = new char[10];</string>
+    <string name="rp18_2">char array[] = {1,2,3,4,5};</string>
+    <string name="rp18_3">int i=0; \n i=++ \n System.out.println(nombres[i]);</string>
+    <string name="rp19_1">Son un contador para ingresar la cantidad de algun valor que se quiera guardar</string>
+    <string name="rp19_2">El logo de un objeto para poder capturar datos que se escogen y de ahi poder mostrar una ventana emergente</string>
+    <string name="rp19_3">Son menús desplegables en Android que permiten al usuario decidirse por un camino entre varias opciones</string>
+    <string name="rp20_1">for(int i=0; i menor x; i=++){ \n System.out.println(nombres[i]); \n}</string>
+    <string name="rp20_2">for(int i=0; i mayor x; i=++){ \n System.out.println(nombres[i]); \n}</string>
+    <string name="rp20_3">for(int i=0; i igualx; i=++){ \n System.out.println(nombres[i]); \n}</string>
+</resources>

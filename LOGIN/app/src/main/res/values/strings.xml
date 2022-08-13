@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LOGIN</string>
+    <string name="log">Inicio de sesión</string>
+    <string name="nombre">Nombre: </string>
+    <string name="contra">Contraseña: </string>
+    <string name="soli1">Escribe tu nombre </string>
+    <string name="soli2">Escribe tu contraseña</string>
+    <string name="cuenta">¿No tienes una cuenta?</string>
+    <string name="iniciar">Entrar</string>
+    <string name="regis">REGISTRAR</string>
+    <string name="regis2">CREARSE UNA CUENTA</string>
+    <string name="cer">cerrar sesion</string>
+</resources>

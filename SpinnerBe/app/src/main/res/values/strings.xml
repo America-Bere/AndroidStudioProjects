@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpinnerBe</string>
+    <string name="an1">Escoge un dia de la semana</string>
+    <string name="an2">Escoge un pais</string>
+</resources>

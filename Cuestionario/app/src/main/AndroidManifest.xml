@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.cuestionario">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Cuestionario"
+        tools:targetApi="31">
+        <activity
+            android:name=".PreguntaVeinte"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaDiecinueve"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaDieciocho"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaDiecisiete"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaDieciseis"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaQuince"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaCatorce"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaTrece"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaDoce"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaOnce"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaDiez"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaOcho"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaNueve"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaSiete"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaSeis"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaCinco"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaCuatro"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaTres"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaDos"
+            android:exported="false" />
+        <activity
+            android:name=".PreguntaUno"
+            android:exported="false" />
+        <activity
+            android:name=".preguntauno"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

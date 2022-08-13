@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BD</string>
+    <string name="t1">Codigo del producto</string>
+    <string name="des">Descripcion</string>
+    <string name="pre">Precio</string>
+    <string name="ins">Registrar</string>
+    <string name="eli">Eliminar</string>
+    <string name="act">Actualizar</string>
+    <string name="con">Consultar</string>
+</resources>

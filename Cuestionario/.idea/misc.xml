@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_catorce.xml" value="0.25" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_cinco.xml" value="0.25" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_cuatro.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_diecinueve.xml" value="0.25" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_dieciocho.xml" value="0.25" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_dieciseis.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_diecisiete.xml" value="0.25" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_diez.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_doce.xml" value="0.25" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_dos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_nueve.xml" value="0.25" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_ocho.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_once.xml" value="0.25" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_quince.xml" value="0.25" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_seis.xml" value="0.25" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_siete.xml" value="0.25" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_trece.xml" value="0.25" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_tres.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_uno.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_pregunta_veinte.xml" value="0.25" />
+        <entry key="..\:/Users/Berenice/AndroidStudioProjects/Cuestionario/app/src/main/res/layout/activity_preguntauno.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
